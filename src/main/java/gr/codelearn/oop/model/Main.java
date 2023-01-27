@@ -1,6 +1,6 @@
-package gr.codelearn;
+package gr.codelearn.oop.model;
 
-import gr.codelearn.model.*;
+import gr.codelearn.oop.model.*;
 
 public class Main {
     public static void main(String[] args) {

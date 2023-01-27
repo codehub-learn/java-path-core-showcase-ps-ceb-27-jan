@@ -1,4 +1,4 @@
-package gr.codelearn.model;
+package gr.codelearn.oop.model;
 
 public class Car implements Vehicle {
     private String name;

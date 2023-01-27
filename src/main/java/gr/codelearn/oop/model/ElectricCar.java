@@ -1,4 +1,4 @@
-package gr.codelearn.model;
+package gr.codelearn.oop.model;
 
 public class ElectricCar extends Car {
 
