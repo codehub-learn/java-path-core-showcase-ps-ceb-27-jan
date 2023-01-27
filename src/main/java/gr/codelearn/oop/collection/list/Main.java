@@ -16,7 +16,7 @@ public class Main {
 
         List<Integer> integers = List.of(1, 2, 3, 4, 5, 6); // immutable
         List<Integer> integers1 = Arrays.asList(1, 2, 3, 4, 5, 6);
-        integers.add(2);
+        //integers.add(2);
     }
 
     private static void linkedListsActions(){
