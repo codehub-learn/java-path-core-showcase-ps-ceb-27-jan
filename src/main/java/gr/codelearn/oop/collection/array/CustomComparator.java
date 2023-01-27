@@ -1,4 +1,4 @@
-package gr.codelearn.oop.collection;
+package gr.codelearn.oop.collection.array;
 
 import java.util.Comparator;
 
